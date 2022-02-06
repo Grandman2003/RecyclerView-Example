@@ -2,7 +2,6 @@ package ru.a1exs.recyclerviewexample.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import ru.a1exs.recyclerviewexample.adapters.UsersListAdapter
 import ru.a1exs.recyclerviewexample.databinding.ActivityListBinding
 import ru.a1exs.recyclerviewexample.domain.UserDataProvider
 
